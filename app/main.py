@@ -23,7 +23,7 @@ The `/qualifications`, `/employment`, `/skills` endpoints are publicly accessibl
 """
 
 app = FastAPI(
-    title="Ash Boot's API",
+    title="Ash's API",
     description=description,
     summary="Collection of endpoints to gather my details."
 )
